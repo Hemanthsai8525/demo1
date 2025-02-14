@@ -1,0 +1,28 @@
+h1{
+    background-color: rgb(96, 14, 173);
+    color: rgb(14, 109, 193);
+}
+#d{
+    background-color: rgb(255, 0, 0);
+}
+.d{
+    background-color: rgb(240, 9, 9);
+    border: 2px;
+    border-color: rgb(24, 245, 3);
+}
+
+.one{
+    background-color: red;
+    width: 200px;
+    height: 200px;
+    display: inline-block;
+}
+.o{
+    background-color: red;
+}
+.two{
+    background-color: rgb(25, 0, 255);
+    width: 200px;
+    height: 200px;
+    display:inline-block;
+}
