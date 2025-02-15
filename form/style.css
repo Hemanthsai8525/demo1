@@ -1,0 +1,15 @@
+.regi{
+     display:flex;
+    flex-direction:column;
+    justify-content: center;
+    align-items:center; 
+    background-image: url(https://i.pinimg.com/236x/f4/7f/24/f47f24709105d4738edda3ebbfc9e35a.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+
+}
+.form{
+    color:rgb(6, 1, 1); background-color:aqua ; width:500px;
+}
